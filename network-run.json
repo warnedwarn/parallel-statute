@@ -1,0 +1,43 @@
+{
+  "instrumentId": "CHARTER-1791123041",
+  "transactions": {
+    "register": "0x220bbd1a9e9e21daa985461aee79d3b59c1014ffb8c7fcb5fdeffa82acdabff3",
+    "audit": "0xab234bd69178fb7676a5e3cba061520d9b2c2007690d32bad3da32bff3ff8ad3",
+    "repair": "0xc9c93a80ab9d6dcf0742cbd011b32218748af87afd107478ad361047ea68a19e"
+  },
+  "state": {
+    "auditor": "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+    "codes": [
+      "EQUIVALENT",
+      "EQUIVALENT",
+      "EQUIVALENT"
+    ],
+    "id": "CHARTER-1791123041",
+    "left_digest": "15754bdf07d62452b35d68085adb9fe4636e1131b17d710972896dc8927c942a",
+    "left_label": "English",
+    "left_url": "https://raw.githubusercontent.com/warnedwarn/parallel-statute/569da52f54973dfec080fd9d2be92270c3b7bbee/evidence/left-text.md",
+    "notes": [
+      "0:EQUIVALENT",
+      "1:EQUIVALENT",
+      "2:EQUIVALENT"
+    ],
+    "publisher": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "repair_deadline": 1791123981,
+    "repaired_digest": "10f942ac776de239040aaa6474f1c20287f99658f4420d2f1eeacff0b2eb915a",
+    "repaired_side": "RIGHT",
+    "repaired_url": "https://cdn.jsdelivr.net/gh/warnedwarn/parallel-statute@569da52f54973dfec080fd9d2be92270c3b7bbee/evidence/right-text-corrected.md",
+    "revision": 1,
+    "right_digest": "1218aa11ff79057fc3c025025d65af0933fddfdd6956570af71ef3388bbd49d4",
+    "right_label": "Tamazight",
+    "right_url": "https://cdn.jsdelivr.net/gh/warnedwarn/parallel-statute@569da52f54973dfec080fd9d2be92270c3b7bbee/evidence/right-text.md",
+    "sections": [
+      "Article 1 access",
+      "Article 2 appeal deadline",
+      "Article 3 language assistance"
+    ],
+    "state": "RESTORED",
+    "summary": "PARITY",
+    "title": "Harbor Access Charter"
+  },
+  "walletDisclosure": "All demo wallets and bilingual excerpts are operator-controlled fixtures."
+}

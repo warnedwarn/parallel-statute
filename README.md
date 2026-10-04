@@ -33,3 +33,14 @@ python -m pytest -q
 ```
 
 The included bilingual excerpts are synthetic operator-controlled fixtures. They test the primitive; they are not authoritative translations.
+
+## Receipt strip
+
+`REGISTERED` [`0x220bbd1a…`](https://explorer-studio.genlayer.com/transactions/0x220bbd1a9e9e21daa985461aee79d3b59c1014ffb8c7fcb5fdeffa82acdabff3)
+→ `DRIFT` [`0xab234bd6…`](https://explorer-studio.genlayer.com/transactions/0xab234bd69178fb7676a5e3cba061520d9b2c2007690d32bad3da32bff3ff8ad3)
+→ `RESTORED` [`0xc9c93a80…`](https://explorer-studio.genlayer.com/transactions/0xc9c93a80ab9d6dcf0742cbd011b32218748af87afd107478ad361047ea68a19e)
+
+- Contract: [`0x097Ec90fE613E37f2D5E878c4E09dCE464e782F4`](https://explorer-studio.genlayer.com/address/0x097Ec90fE613E37f2D5E878c4E09dCE464e782F4)
+- Deployment: [`0x2ddba0e593d658a1414bd49d1cb0bb59040dea76452e811a4ae80cd213fdd663`](https://explorer-studio.genlayer.com/transactions/0x2ddba0e593d658a1414bd49d1cb0bb59040dea76452e811a4ae80cd213fdd663)
+- Live record: `CHARTER-1791123041`; repaired side `RIGHT`; final codes are three `EQUIVALENT` entries.
+- Exact deployed source SHA-256: `0ccbb13c6c66ae59ebb69a8ba2e41c6ac405e6d083444b4fc54312819d464527`.

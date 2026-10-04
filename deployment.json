@@ -1,0 +1,8 @@
+{
+  "network": "StudioNet",
+  "account": "warnedwarn",
+  "contractAddress": "0x097Ec90fE613E37f2D5E878c4E09dCE464e782F4",
+  "deploymentTransaction": "0x2ddba0e593d658a1414bd49d1cb0bb59040dea76452e811a4ae80cd213fdd663",
+  "sourceSha256": "0ccbb13c6c66ae59ebb69a8ba2e41c6ac405e6d083444b4fc54312819d464527",
+  "repository": "https://github.com/warnedwarn/parallel-statute"
+}
